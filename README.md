@@ -11,8 +11,7 @@ Requirements
 Compiling
 ---------
 
-After ensuring SFML is installed with correctly linked path directory, run `make`.
-An example executable, `the_maze` has been given as well.
+After ensuring SFML is installed with correctly linked path directory, run `make` in termal.
 
 Usage
 -----
