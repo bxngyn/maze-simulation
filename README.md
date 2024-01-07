@@ -24,9 +24,9 @@ Run `./maze` in terminal. An example executable, `./the_maze`, has been provided
 
 Examples
 -----
-## Kruskall's Algorithm
+#### Kruskall's Algorithm
 
 *gif here*
 
-## Prim's Algorithm
+#### Prim's Algorithm
 *gif here*
