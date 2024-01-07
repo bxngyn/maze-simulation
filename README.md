@@ -11,7 +11,7 @@ Requirements
 Compiling
 ---------
 
-After ensuring SFML is installed with correctly linked path directory, run `make` in termal.
+After ensuring SFML is installed with correctly linked path directory, run `make` in terminal.
 
 Usage
 -----
@@ -32,3 +32,5 @@ Examples
 
 Planned Updates for the Future
 -----
+- Option for user to manually input maze height and width to demonstrate how runtime of Kruskall's and Prim's changes as maze size increases/decreases
+- Implementing more maze generation and solving algorithms such as DFS and A* pathfinding algorithm
