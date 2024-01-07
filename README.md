@@ -29,3 +29,6 @@ Examples
 
 #### Prim's Algorithm
 *gif here*
+
+Planned Updates for the Future
+-----
