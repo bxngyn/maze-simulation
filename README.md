@@ -1,7 +1,7 @@
 Maze Generator & Solver
 ===================
 
-Application written in C++ using SFML.
+An application written in C++ using SFML to demonstrate the runtime differences between maze generation algorithms as maze size changes.
 
 Requirements
 ---------
