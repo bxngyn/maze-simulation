@@ -1,1 +1,1 @@
-# sfml_maze
+# SFML Maze Generator
