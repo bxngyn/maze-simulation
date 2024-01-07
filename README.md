@@ -18,12 +18,12 @@ Usage
 Run `./maze` in terminal. An example executable, `./the_maze`, has been provided as well.
 
 *Keyboard Shortcuts*
-- "k" to activate generation with Kruskall's Algorithm
+- "k" to activate generation with Kruskal's Algorithm
 - "p" to activate generation with Prim's Algorithm
 
 Examples
 -----
-#### Kruskall's Algorithm
+#### Kruskal's Algorithm
 
 *gif here*
 
@@ -32,5 +32,5 @@ Examples
 
 Planned Updates for the Future
 -----
-- Option for user to manually input maze height and width to demonstrate how runtime of Kruskall's and Prim's changes as maze size increases/decreases
-- Implementing more maze generation and solving algorithms such as DFS and A* pathfinding algorithm
+- Implementing option for user to choose between solving algorithms such as Random Mouse, Hand on Wall, and A* pathfinding
+- Implementing more maze generation algorithms such as DFS and Wilson's Algorithm
