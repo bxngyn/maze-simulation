@@ -32,5 +32,6 @@ Examples
 
 Planned Updates for the Future
 -----
-- Implementing option for user to choose between solving algorithms such as Random Mouse, Hand on Wall, and A* pathfinding
-- Implementing more maze generation algorithms such as DFS and Wilson's Algorithm
+- Implementing option to choose between solving algorithms such as Random Mouse, Hand on Wall, and A* pathfinding
+- Implementing more maze generation algorithms such as Wilson's Algorithm
+- Improve user experience by integrating visual dropdown for maze height/width options rather than command line input
