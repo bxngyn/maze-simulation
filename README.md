@@ -23,14 +23,10 @@ After running, user will be prompted to input maze width and height in command l
 - "k" to activate generation with Kruskal's Algorithm
 - "p" to activate generation with Prim's Algorithm
 
-Examples
+Example
 -----
-#### Kruskal's Algorithm
-
-*gif here*
-
-#### Prim's Algorithm
-*gif here*
+**Kruskal's Algorithm ran on maze width and height of 45.** <br>
+![](https://github.com/bxngyn/maze-simulation/blob/main/resource/example.gif)
 
 Planned Updates for the Future
 -----
