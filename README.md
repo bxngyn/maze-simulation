@@ -1,4 +1,4 @@
-Maze Simulation
+Maze Simulation (w.i.p.)
 ===================
 
 An application written in C++ using SFML to demonstrate the runtime differences between maze generation algorithms as maze size changes.
