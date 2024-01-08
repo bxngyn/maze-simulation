@@ -15,7 +15,9 @@ After ensuring SFML is installed with correctly linked path directory, run `make
 
 Usage
 -----
-Run `./maze` in terminal. An example executable, `./the_maze`, has been provided as well.
+Run `./maze` in terminal. An example executable, `./the_maze`, has been provided as well. <br>
+After running, user will be prompted to input maze width and height in command line.
+*Note: width and height currently restricted to values from 2-55*
 
 *Keyboard Shortcuts*
 - "k" to activate generation with Kruskal's Algorithm
