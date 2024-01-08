@@ -6,7 +6,7 @@ An application written in C++ using SFML to demonstrate the runtime differences 
 Requirements
 ---------
 
-[SFML 2.6.1 or greater](https://www.sfml-dev.org/download.php)
+[SFML 2](https://www.sfml-dev.org/download.php)
 
 Compiling
 ---------
