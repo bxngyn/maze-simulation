@@ -17,7 +17,7 @@ Usage
 -----
 Run `./maze` in terminal. An example executable, `./the_maze`, has been provided as well. <br><br>
 After running, user will be prompted to input maze width and height in command line.<br>
-**Note: width and height currently restricted to values from 2-55**
+**Note: height is currently restricted to values from 2-68, width is restricted to values from 2-55.**
 
 *Keyboard Shortcuts*
 - "k" to activate generation with Kruskal's Algorithm
