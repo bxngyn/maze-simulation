@@ -27,6 +27,9 @@ Graphics
 **Prim's Algorithm (675px x 225px)**
 ![](https://github.com/bxngyn/maze-simulation/blob/main/resource/prims.gif)
 
+**Kruskal's Algorithm (375px x 375 px)**
+![](https://github.com/bxngyn/maze-simulation/blob/main/resource/kruskal.gif)
+
 Planned Updates for the Future
 -----
 - Improve user experience by integrating visual dropdown for maze height/width options rather than manually altering code
