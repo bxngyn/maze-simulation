@@ -25,9 +25,6 @@ After running, user will be prompted to input maze width and height in command l
 Graphics
 -----
 
-**Starting Screen**
-![](https://github.com/bxngyn/maze-simulation/blob/main/resource/screen.png)
-<br>
 **Prim's Algorithm (45x15)**
 ![](https://github.com/bxngyn/maze-simulation/blob/main/resource/prims.gif)
 
