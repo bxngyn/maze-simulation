@@ -32,6 +32,7 @@ Graphics
 
 Planned Updates for the Future
 -----
+- Use classes to encapsulate code in generation.cpp/h
 - Improve user experience by integrating visual dropdown for maze height/width options rather than manually altering code
 - Implementing option to choose between solving algorithms such as Random Mouse, Hand on Wall, and A* pathfinding
 - Allowing for both simulations to run side-by-side simultaneously
